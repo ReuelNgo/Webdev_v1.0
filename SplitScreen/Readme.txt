@@ -1,0 +1,3 @@
+A screen that slides open when your mouse hovers over the whichever half of the screen.
+This actually took me a day to make...
+Inspired by https://nvanha.github.io/50-projects-html-css-javascript/
